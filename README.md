@@ -1,5 +1,5 @@
 # Packet Sender
-## Send Packets
+## Send Packets with custom settings.
 
 Prerequisites:
 
