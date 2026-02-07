@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36705.20 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Packet Sender", "Packet Sender\Packet Sender.csproj", "{EEAE97EA-F849-45F1-897E-12F501A59EFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEAE97EA-F849-45F1-897E-12F501A59EFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEAE97EA-F849-45F1-897E-12F501A59EFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEAE97EA-F849-45F1-897E-12F501A59EFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEAE97EA-F849-45F1-897E-12F501A59EFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C15023FE-5724-44D9-9280-C224699FD7F7}
+	EndGlobalSection
+EndGlobal
